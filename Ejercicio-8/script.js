@@ -5,8 +5,8 @@ alert("El número " + num + " es " + resultado);
 
 function operacion(num) {
     if (num % 2 == 0) {
-        return " es par";
+        return " par";
     } else {
-        return "es impar";
+        return " impar";
     }
 }
